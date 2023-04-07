@@ -1,10 +1,10 @@
-Français:
+FranÃ§ais:
 
-Site d'information où l'on peut lire ou ecrire des articles, avec un
+Site d'information oÃ¹ l'on peut lire ou Ã©crire des articles, avec un
 systeme de commentaire
 
-La base de donnée est dans ce fichier au nom de IO2.
-À mettre dans le repertoire de base de donnée d'une application web,
+La base de donnÃ©es est le fichier au nom de IO2.
+Ã€ mettre dans le repertoire de base de donnÃ©e d'une application web,
 tel que phpMyAdmin, cela devrait fonctionner
 
 Pour MySQL, utiliser le serveur localhost, avec comme utilisateur "root"
@@ -15,17 +15,17 @@ BANDA BACARY, login: Sidy75, mot de passe: Sidy
 
 Membres du site:
 PERDU JEAN, login: JPDidel, mot de passe: didel
-(si les mot de passe sont incorrectes, vérifiez la base de données)
-JPDidel est un membre crée pour tester les fonctions disponible sur le site
+(si les mots de passe sont incorrectes, vÃ©rifiez la base de donnÃ©es)
+JPDidel est un membre crÃ©e pour tester les fonctions disponible sur le site
 
-Les mots de passe ne sont pas crypté, pour une vérification plus simple
+Les mots de passe ne sont pas cryptÃ©, pour une vÃ©rification plus simple
 
 English:
 
-News website where we can read or write articles, with a comments
-system (Comment section)
+News website where we can read or write articles, with a comment
+system (a working comment section)
 
-The database is in the file named IO2
+The database is the file named IO2
 It needs to be put in the database repository of a web application,
 such as phpMyAdmin, it should work
 
