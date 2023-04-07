@@ -1,5 +1,7 @@
 Français:
 
+Ce projet a été fait en 2016
+
 Site d'information où l'on peut lire ou écrire des articles, avec un
 systeme de commentaire
 
@@ -21,6 +23,8 @@ JPDidel est un membre crée pour tester les fonctions disponible sur le site
 Les mots de passe ne sont pas crypté, pour une vérification plus simple
 
 English:
+
+this project was made in 2016
 
 News website where we can read or write articles, with a comment
 system (a working comment section)
