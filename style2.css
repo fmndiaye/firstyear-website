@@ -1,0 +1,22 @@
+body
+{
+background-color:#F0FFF0;
+font-family: Verdana, sans-serif;
+background-image:url('Font2.jpg');
+}
+h1
+{color : green;
+text-align: center;
+}
+h2
+{color : green;
+}
+a:visited
+{
+color: red;
+}
+p 
+{color: grey;
+}
+
+
